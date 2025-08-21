@@ -4,12 +4,15 @@
 
 </div>
 
+## ✨ 프로젝트 소개
+
 ```
 FedHybrid는 Federated Learning + Hybrid 에서 유래하여, 기존 연합 학습 (FL) 분야의
 이론들을 통합하여 상용화 목적에 부합하는 최적의 AI 연합 학습 환경 개발을 목표로 합니다.
 ```
 
 [![Watch the video](https://github.com/user-attachments/assets/c15441e0-71f6-49f0-807d-ed69e968725e)](https://youtu.be/MOwfVM7K7Wc?si=TjV8VLWX4CYSCrjR)
+> 화면을 클릭하시면 프로젝트 소개 영상으로 넘어갑니다!
 
 ## 👋 팀원 소개
 
