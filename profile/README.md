@@ -14,6 +14,8 @@ FedHybrid는 Federated Learning + Hybrid 에서 유래하여, 기존 연합 학�
 [![Watch the video](https://github.com/user-attachments/assets/c15441e0-71f6-49f0-807d-ed69e968725e)](https://youtu.be/MOwfVM7K7Wc?si=TjV8VLWX4CYSCrjR)
 > 화면을 클릭하시면 프로젝트 소개 영상으로 넘어갑니다!
 
+<br/>
+
 ## 👋 팀원 소개
 
 | 이름                                        | 전공        | 역할 | Email                |
